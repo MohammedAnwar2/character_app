@@ -28,7 +28,7 @@ Tap on any character to view detailed information such as name, biography, and m
 ### 4. **Shimmer Effect ✨**
 We use the modern shimmer effect to display items while data is loading, providing a smooth experience as you navigate between screens. 🌟
 
-![Shimmer](assets/screenshot/shimmer.png)
+![Shimmer](assets/screenshot/shummer.png)
 
 ### 5. **Pagination & Loading ⏳**
 To ensure no delay in loading data, we load the data incrementally through pagination. You can easily browse through the list of characters! 🔄
