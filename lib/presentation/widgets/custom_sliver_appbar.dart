@@ -31,13 +31,10 @@ class CustomSliverAppBar extends StatelessWidget {
         background: charactersModel.image != null
             ? Hero(
                 tag: charactersModel.id!,
-                child: ClipRRect(
-                  borderRadius: BorderRadius.circular(8),
-                  child: FadeInImage.assetNetwork(
-                      placeholder: AppImages.placeholder,
-                      fit: BoxFit.fill,
-                      image: charactersModel.image!),
-                ),
+                child: FadeInImage.assetNetwork(
+                    placeholder: AppImages.placeholder,
+                    fit: BoxFit.fill,
+                    image: charactersModel.image!),
               )
             : SvgPicture.asset(AppImages.emptyImage, fit: BoxFit.fill),
       ),
