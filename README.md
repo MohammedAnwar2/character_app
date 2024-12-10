@@ -17,7 +17,7 @@ Welcome to **Character App**, a Flutter project that showcases characters from t
 
 | Home Screen  | Character Details |
 |--------------|-------------------|
-| ![Home Screen](assets/screenshots/home.png) | ![Details Screen](assets/screenshots/details.png) |
+| ![Home Screen](assets/images/placeholder.gif) | ![Details Screen](assets/screenshots/details.png) |
 
 ---
 
