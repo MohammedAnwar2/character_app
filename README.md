@@ -14,7 +14,7 @@ We ensure that the app runs smoothly across all screen sizes. Whether you're usi
 ### 2. **Search Functionality 🔍**
 With advanced search functionality, you can easily find characters. No more endless scrolling! 🔎
 
-![Search](assets/images/search.png)
+![Search](assets/screenshot/search.png)
 ![Filter with Search 1](assets/screenshot/filter_with_search_1.png)
 ![Filter with Search 2](assets/screenshot/filter_with_search_2.png)
 ![Filter with Search 3](assets/screenshot/filter_with_search_3.png)
