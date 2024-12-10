@@ -1,5 +1,3 @@
-Certainly! Here is the entire explanation in English:
-
 ---
 
 ### **App: Character App**
