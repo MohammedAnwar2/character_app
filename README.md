@@ -14,11 +14,20 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 
 
 
-<img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="200">
-<img src="assets/screenshot/responsive4.png" alt="Responsive 2" width="200">
-<img src="assets/screenshot/responsive5.png" alt="Responsive 3" width="200">
-<img src="assets/screenshot/respomsive_2.png" alt="Responsive 4" width="200">
-<img src="assets/screenshot/respomsive_3.png" alt="Responsive 5" width="200">
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+
+  <div>
+    <img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="200">
+    <img src="assets/screenshot/responsive4.png" alt="Responsive 2" width="200">
+  </div>
+
+  <div>
+    <img src="assets/screenshot/responsive5.png" alt="Responsive 3" width="200">
+    <img src="assets/screenshot/respomsive_2.png" alt="Responsive 4" width="200">
+  </div>
+
+</div>
+
 
 ![Responsive 1](assets/screenshot/respomsive_1.png)  
 ![Responsive 2](assets/screenshot/responsive4.png)  
