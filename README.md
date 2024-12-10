@@ -1,5 +1,3 @@
----
-
 ### **App: Character App**
 
 Welcome to **Character App**! 🌀 This app is dedicated to displaying characters from the famous show "Rick and Morty." We are here to provide you with a fast and flexible user experience with many amazing features ✨.
