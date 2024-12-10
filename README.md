@@ -17,6 +17,7 @@ Welcome to **Character App**, a Flutter project that showcases characters from t
 
 | Home Screen  |
 |--------------|
+
 ![Description of Image](assets/images/empty_image.svg)
 
 
