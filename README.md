@@ -23,15 +23,6 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 </div>
 
 
-
-![Responsive 1](assets/screenshot/respomsive_1.png)  
-![Responsive 2](assets/screenshot/responsive4.png)  
-![Responsive 3](assets/screenshot/responsive5.png)  
-![Responsive 4](assets/screenshot/respomsive_2.png)  
-![Responsive 5](assets/screenshot/respomsive_3.png)
-
-
-
 ### **2. Search with Filter 🔍**
 
 With advanced search functionality and filters, you can easily find characters and narrow down the results based on your preferences. No more endless scrolling! 🔎
