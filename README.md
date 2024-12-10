@@ -7,7 +7,7 @@ Welcome to **Character App**! 🌀 This app is dedicated to displaying character
 ### 1. **Responsive Design 📱💻**
 We ensure that the app runs smoothly across all screen sizes. Whether you're using a small or large device, the design remains flexible and suitable for all devices. 📐
 
-![Responsive 1](assets/images/responsive1.gif)
+![Responsive 1](assets/س/responsive1.gif)
 ![Responsive 2](assets/images/responsive2.gif)
 ![Responsive 3](assets/images/responsive3.gif)
 
