@@ -20,13 +20,13 @@ Responsive design means that the app automatically adjusts itself to fit the scr
     alt="Responsive 2" 
     width="400" 
     height="500" 
-    style="margin: 20px 10px;"
+    style="margin: 60px 10px;"
   >
   <img 
     src="assets/screenshot/responsive5.png" 
     alt="Responsive 3" 
     width="400" 
-    style="margin: 20px 10px;"
+    style="margin: 60px 10px;"
   >
 </div>
 
@@ -36,14 +36,14 @@ Responsive design means that the app automatically adjusts itself to fit the scr
     alt="Responsive 4" 
     width="300" 
     height="700" 
-    style="margin: 20px 10px;"
+    style="margin: 60px 10px;"
   >
   <img 
     src="assets/screenshot/respomsive_3.png" 
     alt="Responsive 5" 
     width="300" 
     height="700" 
-    style="margin: 20px 10px;"
+    style="margin: 60px 10px;"
   >
 </div>
 
