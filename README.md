@@ -22,11 +22,7 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 ![Responsive 4](assets/screenshot/respomsive_2.png)  
 ![Responsive 5](assets/screenshot/respomsive_3.png)
 
----
 
-Certainly! Here’s the detailed explanation for **Search with Filter** in English:
-
----
 
 ### **2. Search with Filter 🔍**
 
