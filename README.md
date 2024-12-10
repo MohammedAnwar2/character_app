@@ -107,7 +107,7 @@ When the app starts fetching data, a custom image appears indicating that the pr
 
 To install this project locally, follow these steps:
 
-1. Download the project from [GitHub repository](https://github.com/yourrepo).
+1. Download the project from [GitHub repository](https://github.com/MohammedAnwar2/character_app).
 2. Run it using Flutter. 🚀
 
 ### 2. **Development:**
