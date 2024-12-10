@@ -24,18 +24,25 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 
 ---
 
-### 2. **Search Functionality 🔍**
+Certainly! Here’s the detailed explanation for **Search with Filter** in English:
 
-With advanced search functionality, you can easily find characters. No more endless scrolling! 🔎
+---
 
-This feature allows you to search for characters based on their names or other attributes. Additionally, you can filter the results to display characters that meet your criteria, saving you time and effort in finding the character you're looking for.
+### **2. Search with Filter 🔍**
+
+With advanced search functionality and filters, you can easily find characters and narrow down the results based on your preferences. No more endless scrolling! 🔎
+
+This feature allows you to search for characters by their names or other attributes such as species, status, or gender. Additionally, you can apply filters to refine the search results, ensuring that you only see characters that match your specific criteria. This improves the user experience, making it faster and more efficient to find the character you're looking for.
+
+For example, if you're interested in characters from a particular species, you can filter the results accordingly. You can also use filters to search for characters based on their status (alive or dead) or gender. By using these filters, you eliminate the need to scroll through an endless list of characters, and you gain more control over your search process.
+
+The **search with filter** functionality provides a smooth and intuitive way to quickly locate the characters you want to explore.
 
 ![Search](assets/screenshot/search.png)  
 ![Filter with Search 1](assets/screenshot/filter_with_search_1.png)  
 ![Filter with Search 2](assets/screenshot/filter_with_search_2.png)  
 ![Filter with Search 3](assets/screenshot/filter_with_search_3.png)
 
----
 
 ### 3. **Character Details 📜**
 
