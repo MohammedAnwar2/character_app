@@ -14,38 +14,43 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 
 <img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="800">
 
-<div>
-  <img 
-    src="assets/screenshot/responsive4.png" 
-    alt="Responsive 2" 
-    width="400" 
-    height="500" 
-    style="margin: 20px 80px;"
-  >
-  <img 
-    src="assets/screenshot/responsive5.png" 
-    alt="Responsive 3" 
-    width="400" 
-    style="margin: 20px 80px;"
-  >
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="padding: 10px;">
+    <img 
+      src="assets/screenshot/responsive4.png" 
+      alt="Responsive 2" 
+      width="400" 
+      height="500"
+    >
+  </div>
+  <div style="padding: 10px;">
+    <img 
+      src="assets/screenshot/responsive5.png" 
+      alt="Responsive 3" 
+      width="400"
+    >
+  </div>
 </div>
 
-<div>
-  <img 
-    src="assets/screenshot/respomsive_2.png" 
-    alt="Responsive 4" 
-    width="300" 
-    height="700" 
-    style="margin: 20px 80px;"
-  >
-  <img 
-    src="assets/screenshot/respomsive_3.png" 
-    alt="Responsive 5" 
-    width="300" 
-    height="700" 
-    style="margin: 20px 80px;"
-  >
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="padding: 10px;">
+    <img 
+      src="assets/screenshot/respomsive_2.png" 
+      alt="Responsive 4" 
+      width="300" 
+      height="700"
+    >
+  </div>
+  <div style="padding: 10px;">
+    <img 
+      src="assets/screenshot/respomsive_3.png" 
+      alt="Responsive 5" 
+      width="300" 
+      height="700"
+    >
+  </div>
 </div>
+
 
 
 
