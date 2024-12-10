@@ -12,45 +12,38 @@ We ensure that the app runs smoothly across all screen sizes. Whether you're usi
 
 Responsive design means that the app automatically adjusts itself to fit the screen size of your device, making the app easy to use on both small phones and large tablets or laptops. This flexibility ensures that you can interact with the app easily without issues regarding appearance or usability.
 
-<img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="800">
-
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <div style="padding: 10px;">
-    <img 
-      src="assets/screenshot/responsive4.png" 
-      alt="Responsive 2" 
-      width="400" 
-      height="500"
-    >
-  </div>
-  <div style="padding: 10px;">
-    <img 
-      src="assets/screenshot/responsive5.png" 
-      alt="Responsive 3" 
-      width="400"
-    >
-  </div>
+  <img 
+    src="assets/screenshot/responsive4.png" 
+    alt="Responsive 2" 
+    width="400" 
+    height="500"
+    style="padding: 10px;"
+  >
+  <img 
+    src="assets/screenshot/responsive5.png" 
+    alt="Responsive 3" 
+    width="400"
+    style="padding: 10px;"
+  >
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <div style="padding: 10px;">
-    <img 
-      src="assets/screenshot/respomsive_2.png" 
-      alt="Responsive 4" 
-      width="300" 
-      height="700"
-    >
-  </div>
-  <div style="padding: 10px;">
-    <img 
-      src="assets/screenshot/respomsive_3.png" 
-      alt="Responsive 5" 
-      width="300" 
-      height="700"
-    >
-  </div>
+  <img 
+    src="assets/screenshot/respomsive_2.png" 
+    alt="Responsive 4" 
+    width="300" 
+    height="700"
+    style="padding: 10px;"
+  >
+  <img 
+    src="assets/screenshot/respomsive_3.png" 
+    alt="Responsive 5" 
+    width="300" 
+    height="700"
+    style="padding: 10px;"
+  >
 </div>
-
 
 
 
