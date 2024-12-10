@@ -1,16 +1,31 @@
-# character_app
+# 🌟 Character App
 
-A new Flutter project.
+Welcome to **Character App**, a Flutter project that showcases characters from the amazing Rick and Morty API. This app allows users to explore and learn about their favorite characters from the series in a visually appealing and user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 **Features**
+- Fetch and display characters from the **[Rick and Morty API](https://rickandmortyapi.com/)**.
+- Responsive and smooth UI design.
+- Pagination support for seamless browsing of characters.
+- Character details, including their status, species, origin, and more.
+- Error handling for network issues.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 **Screenshots**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Screen  | Character Details |
+|--------------|-------------------|
+| ![Home Screen](assets/screenshots/home.png) | ![Details Screen](assets/screenshots/details.png) |
+
+---
+
+## 🛠️ **Installation**
+
+To get started with the Character App, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/character_app.git
+   cd character_app
