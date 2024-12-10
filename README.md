@@ -7,48 +7,48 @@ Welcome to **Character App**! 🌀 This app is dedicated to displaying character
 ### 1. **Responsive Design 📱💻**
 We ensure that the app runs smoothly across all screen sizes. Whether you're using a small or large device, the design remains flexible and suitable for all devices. 📐
 
-![Responsive 1](assets/screenshot/responsive1.gif)
-![Responsive 2](assets/screenshot/responsive2.gif)
-![Responsive 3](assets/screenshot/responsive3.gif)
+![Responsive 1](assets/screenshot/responsive1.png)
+![Responsive 2](assets/screenshot/responsive2.png)
+![Responsive 3](assets/screenshot/responsive3.png)
 
 ### 2. **Search Functionality 🔍**
 With advanced search functionality, you can easily find characters. No more endless scrolling! 🔎
 
-![Search](assets/images/search.gif)
-![Filter with Search 1](assets/screenshot/filter_with_search_1.gif)
-![Filter with Search 2](assets/screenshot/filter_with_search_2.gif)
-![Filter with Search 3](assets/screenshot/filter_with_search_3.gif)
+![Search](assets/images/search.png)
+![Filter with Search 1](assets/screenshot/filter_with_search_1.png)
+![Filter with Search 2](assets/screenshot/filter_with_search_2.png)
+![Filter with Search 3](assets/screenshot/filter_with_search_3.png)
 
 ### 3. **Character Details 📜**
 Tap on any character to view detailed information such as name, biography, and more, enhancing your user experience. 📖
 
-![Details 1](assets/screenshot/details_1.gif)
-![Details 2](assets/screenshot/details_2.gif)
+![Details 1](assets/screenshot/details_1.png)
+![Details 2](assets/screenshot/details_2.png)
 
 ### 4. **Shimmer Effect ✨**
 We use the modern shimmer effect to display items while data is loading, providing a smooth experience as you navigate between screens. 🌟
 
-![Shimmer](assets/screenshot/shimmer.gif)
+![Shimmer](assets/screenshot/shimmer.png)
 
 ### 5. **Pagination & Loading ⏳**
 To ensure no delay in loading data, we load the data incrementally through pagination. You can easily browse through the list of characters! 🔄
 
-![Pagination and Loading](assets/screenshot/pagination_and_loading_image.gif)
+![Pagination and Loading](assets/screenshot/pagination_and_loading_image.png)
 
 ### 6. **Issues to Fetch ⚠️**
 If there's any issue fetching data, a clear notification will be displayed to help you quickly understand the problem. 🚨
 
-![Issues to Fetch](assets/screenshot/issues_to_fetch.gif)
+![Issues to Fetch](assets/screenshot/issues_to_fetch.png)
 
 ### 7. **Refresh Functionality 🔄**
 If you want to update the data, you can use the refresh button to reload the content. 🔁
 
-![Refresh](assets/screenshot/refresh.gif)
+![Refresh](assets/screenshot/refresh.png)
 
 ### 8. **Start Fetching Data 🕒**
 When starting the data fetching process, a custom image will appear to show the loading state. 🌀
 
-![Start Fetch](assets/screenshot/start_fetch.gif)
+![Start Fetch](assets/screenshot/start_fetch.png)
 
 ---
 
