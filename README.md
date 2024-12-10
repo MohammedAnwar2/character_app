@@ -5,7 +5,7 @@ Welcome to **Character App**, a Flutter project that showcases characters from t
 ---
 
 ## 📱 **Features**
-- Fetch and display characters from the **[Rick and Morty API](https://rickandmortyapi.com/)**.
+- Fetch and display characters from the **[Rick and Morty API](https://rickandmortyapi.com/documentation/)**.
 - Responsive and smooth UI design.
 - Pagination support for seamless browsing of characters.
 - Character details, including their status, species, and more.
