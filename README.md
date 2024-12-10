@@ -38,7 +38,7 @@ To ensure no delay in loading data, we load the data incrementally through pagin
 ### 6. **Issues to Fetch ⚠️**
 If there's any issue fetching data, a clear notification will be displayed to help you quickly understand the problem. 🚨
 
-![Issues to Fetch](assets/screenshot/issues_to_fetch.png)
+![Issues to Fetch](assets/screenshot/issues.png)
 
 ### 7. **Refresh Functionality 🔄**
 If you want to update the data, you can use the refresh button to reload the content. 🔁
@@ -76,12 +76,13 @@ If you'd like to contribute to this project, don't hesitate to open a pull reque
 
 If you have any questions or inquiries, or if you'd like to discuss improvements or suggestions for the project, you can reach out to us via the following channels:
 
-- **Email**: contact@characterapp.com 📧
-- **Twitter**: [@CharacterApp](https://twitter.com/CharacterApp) 🐦
-- **Facebook Page**: [CharacterAppOfficial](https://facebook.com/CharacterAppOfficial) 📘
+- **Email**: moanbm123@gmail.com 📧
+- **Linkedin**: [@CharacterApp](https://www.linkedin.com/in/mohammad-anwar-50102725b/) 🐦
+- **WhatsApp**: [Contact Us on WhatsApp](https://wa.me/+917411440342) 📱
 
 ---
 
-### 💖 **Thank you for using this app!** 💖 We look forward to your feedback and suggestions to improve the app. 🌱
+### 🌟 **Thank you for visiting!** 🌟
 
-### ✨ **Stay Tuned!** ✨ More features coming soon! 📅
+We look forward to hearing your feedback and suggestions to improve your experience. 💬✨
+
