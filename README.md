@@ -20,7 +20,7 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 ![Responsive 2](assets/screenshot/responsive4.png)  
 ![Responsive 3](assets/screenshot/responsive5.png)  
 ![Responsive 4](assets/screenshot/respomsive_2.png)  
-![Responsive 5](assets/screenshot/respomsive_1.png)
+![Responsive 5](assets/screenshot/respomsive_3.png)
 
 ---
 
