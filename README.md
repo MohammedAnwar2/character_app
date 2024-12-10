@@ -12,7 +12,7 @@ We ensure that the app runs smoothly across all screen sizes. Whether you're usi
 
 Responsive design means that the app automatically adjusts itself to fit the screen size of your device, making the app easy to use on both small phones and large tablets or laptops. This flexibility ensures that you can interact with the app easily without issues regarding appearance or usability.
 
-<img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="400">
+<img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="800">
 <img src="assets/screenshot/responsive4.png" alt="Responsive 2" width="400">
 <img src="assets/screenshot/responsive5.png" alt="Responsive 3" width="400">
 <img src="assets/screenshot/respomsive_2.png" alt="Responsive 4" width="400">
