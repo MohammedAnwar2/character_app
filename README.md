@@ -14,7 +14,7 @@ Responsive design means that the app automatically adjusts itself to fit the scr
 
 <img src="assets/screenshot/respomsive_1.png" alt="Responsive 1" width="800">
 <div>
-  <img src="assets/screenshot/responsive4.png" alt="Responsive 2" width="400" height="700">
+  <img src="assets/screenshot/responsive4.png" alt="Responsive 2" width="400" height="500">
   <img src="assets/screenshot/responsive5.png" alt="Responsive 3" width="400">
 </div>
 
